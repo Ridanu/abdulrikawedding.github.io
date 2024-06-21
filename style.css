@@ -68,7 +68,6 @@ body {
 .home {
   background-image: url(img/home\ ari.png);
   background-size: cover;
-  opacity: 85%;
   min-height: 100vh;
   margin-top: -6rem;
   padding-top: 15rem;
